@@ -44,6 +44,6 @@ int main() {
     for (const auto& line : arrowPattern) {
         std::cout << line << std::endl;
     }
-
+  
     return 0;
 }
